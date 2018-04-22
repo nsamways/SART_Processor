@@ -41,8 +41,8 @@ if len(existing_files) > 0:
 
     # write the headers
     out_handle.writerow(['Participant' , 'Errors', 'FPP W', 'FPP N'])
-    
-    else:
+
+else:
         print("No raw results files to process")
         
 for current_file in existing_files:

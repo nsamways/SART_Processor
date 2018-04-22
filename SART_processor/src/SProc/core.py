@@ -1,23 +1,3 @@
-SART.py
-
-Type
-Text
-Size
-4 KB (4,472 bytes)
-Storage used
-4 KB (4,472 bytes)
-Location
-proj
-Owner
-me
-Modified
-20 Apr 2018 by me
-Opened
-16:26 by me
-Created
-20 Apr 2018 with Google Drive Web
-Add a description
-Viewers can download
 '''
 Created on 18 Apr 2018
  
